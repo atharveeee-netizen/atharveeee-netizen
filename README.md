@@ -16,9 +16,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>&nbsp;
@@ -33,7 +30,7 @@
 
 - 🚁 [**f450-face-detection-drone**](https://github.com/atharveeee-netizen/f450-face-detection-drone) - hand-built F450 quad with Pixhawk, GPS, telemetry, and onboard face detection on a Raspberry Pi 3B+
 - 📡 [**mine-survey-uav-rf**](https://github.com/atharveeee-netizen/mine-survey-uav-rf) - reproducibility code for my UAV RF front-end & sensor-fusion research paper
-- 🌐 [**atharve-portfolio**](https://github.com/atharveeee-netizen/atharve-portfolio) - my hand-built portfolio site, live at [atharveeee.vercel.app](https://atharveeee.vercel.app)
+- 🌐 [**atharve-portfolio**](https://github.com/atharveeee-netizen/atharve-portfolio) - my  portfolio site, live at [atharveeee.vercel.app](https://atharveeee.vercel.app)
 
 ## 📫 Get in Touch
 
