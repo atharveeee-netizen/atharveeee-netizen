@@ -1,11 +1,5 @@
 <div align="center">
 
-<a href="https://atharveeee.vercel.app">
-  <img src="assets/prime_ashu.png" alt="Prime Ashu" width="420" style="border-radius: 12px;" />
-</a>
-
-<br/><br/>
-
 # Atharve Dahima
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Silicon+Photonics+%26+Quantum+LOQC;Laser+LiFi+%26+Free-Space+Optics;Autonomous+UAVs+%26+Flight+Avionics;Embedded+Systems+%26+Edge+Vision&font=Fira+Code&center=true&width=550&height=45&size=19&pause=1000&color=38BDF8&vCenter=true)](https://atharveeee.vercel.app)
