@@ -2,7 +2,7 @@
 
 # Atharve Dahima
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Silicon+Photonics+%26+Quantum+LOQC;Laser+LiFi+%26+Free-Space+Optics;Autonomous+UAVs+%26+Flight+Avionics;Embedded+Systems+%26+Edge+Vision&font=Fira+Code&center=true&width=550&height=45&size=19&pause=1000&color=38BDF8&vCenter=true)](https://atharveeee.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Superconducting+Quantum+Hardware;Optical+Wireless+%26+Laser+LiFi;Precision+Cyber-Physical+IoT;Avionics+%26+Embedded+Systems&font=Fira+Code&center=true&width=550&height=45&size=19&pause=1000&color=38BDF8&vCenter=true)](https://atharveeee.vercel.app)
 
 <p align="center">
   <a href="https://atharveeee.vercel.app"><img src="https://img.shields.io/badge/Portfolio-atharveeee.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -16,12 +16,12 @@
 
 ### Overview
 
-I build at the intersection of **silicon photonics, optical wireless systems (LiFi), autonomous avionics, and embedded engineering**.
+I build hardware and cyber-physical systems across **superconducting quantum processors, optical wireless (LiFi), and embedded telemetry**.
 
-- **Quantum Photonics & Linear Optics:** Compiling quantum circuits to physical Mach-Zehnder meshes, thermal cross-talk matrix inversion ($K^{-1}$), and 220nm cleanroom noise modeling.
-- **Laser & Optical Communications (Li-Fi):** Modeling free-space optical (FSO) networks, Digital Micromirror Device (DMD) beam steering, and high-bandwidth optical transmission.
-- **Avionics & Robotics:** Designing and tuning autonomous multirotors using Pixhawk and ArduPilot stacks.
-- **Embedded Systems & Edge Vision:** Deploying computer vision pipelines on resource-constrained compute (Raspberry Pi and microcontrollers).
+- **Superconducting Quantum Hardware:** Physical design, multi-tier microwave modeling, and GDSII mask synthesis of planar transmon processors using Qiskit Metal, Ansys Circuit/HFSS, and pyEPR.
+- **Laser & Optical Communications (LiFi):** End-to-end simulation of free-space optical networks, COMSOL Multiphysics micromirror (DMD) beam-steering arrays, and live MATLAB co-simulation in OptiSystem.
+- **Cyber-Physical Systems & Edge DSP:** Low-power embedded hardware (WisBlock nRF52840, SX1262 LoRa), CMSIS-DSP real-time FFT / drift filtering, and Linux gateway telemetry stacks.
+- **Avionics & Autonomous Robotics:** Multirotor flight controller integration, sensor telemetry, and power distribution systems built on Pixhawk and ArduPilot stacks.
 
 ---
 
@@ -30,47 +30,46 @@ I build at the intersection of **silicon photonics, optical wireless systems (Li
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>Photonics & Quantum</h4>
-      <img src="https://img.shields.io/badge/Silicon%20Photonics-00D2FF?style=flat-square" alt="Silicon Photonics" />
-      <img src="https://img.shields.io/badge/Linear%20Optics%20(LOQC)-3B82F6?style=flat-square" alt="LOQC" />
-      <img src="https://img.shields.io/badge/OpenQASM%202.0%20%2F%203.0-7928CA?style=flat-square" alt="OpenQASM" />
+      <h4>Quantum & Microwave Engineering</h4>
+      <img src="https://img.shields.io/badge/Qiskit%20Metal-6929C4?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit Metal" />
+      <img src="https://img.shields.io/badge/Superconducting%20Transmons-0052CC?style=flat-square" alt="Superconducting Transmons" />
+      <img src="https://img.shields.io/badge/Ansys%20HFSS%20%2F%20Circuit-FFB200?style=flat-square" alt="Ansys HFSS Circuit" />
       <br/>
-      <img src="https://img.shields.io/badge/OptiSystem-2E7D32?style=flat-square" alt="OptiSystem" />
-      <img src="https://img.shields.io/badge/COMSOL%20Multiphysics-003366?style=flat-square" alt="COMSOL" />
-      <img src="https://img.shields.io/badge/GDSII%20CAD-4A5568?style=flat-square" alt="GDSII" />
+      <img src="https://img.shields.io/badge/pyEPR-3B82F6?style=flat-square" alt="pyEPR" />
+      <img src="https://img.shields.io/badge/cQED%20Microwave%20Analysis-0284C7?style=flat-square" alt="cQED Microwave Analysis" />
+      <img src="https://img.shields.io/badge/GDSII%20Mask%20Layout-4A5568?style=flat-square" alt="GDSII Layout" />
     </td>
     <td width="50%" valign="top">
-      <h4>Languages & Computing</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/MATLAB%20%2F%20Simulink-ED8B00?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+      <h4>Photonics & Optical Wireless</h4>
+      <img src="https://img.shields.io/badge/OptiSystem-2E7D32?style=flat-square" alt="OptiSystem" />
+      <img src="https://img.shields.io/badge/COMSOL%20Multiphysics-003366?style=flat-square" alt="COMSOL" />
+      <img src="https://img.shields.io/badge/Laser%20LiFi%20%2F%20FSO-00B4D8?style=flat-square" alt="Laser LiFi FSO" />
       <br/>
-      <img src="https://img.shields.io/badge/NumPy%20%2F%20SciPy-013243?style=flat-square" alt="NumPy SciPy" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+      <img src="https://img.shields.io/badge/DMD%20Beam%20Steering-7928CA?style=flat-square" alt="DMD Beam Steering" />
+      <img src="https://img.shields.io/badge/Chebyshev%20Filtering-10B981?style=flat-square" alt="Chebyshev Filtering" />
+      <img src="https://img.shields.io/badge/Optical%20Link%20Budget-6366F1?style=flat-square" alt="Optical Link Budget" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Avionics & Hardware</h4>
-      <img src="https://img.shields.io/badge/Pixhawk-007ACC?style=flat-square" alt="Pixhawk" />
-      <img src="https://img.shields.io/badge/ArduPilot-E25D34?style=flat-square" alt="ArduPilot" />
-      <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+      <h4>Embedded & Cyber-Physical Systems</h4>
+      <img src="https://img.shields.io/badge/WisBlock%20RAK4631-007ACC?style=flat-square" alt="WisBlock RAK4631" />
+      <img src="https://img.shields.io/badge/FreeRTOS-00A86B?style=flat-square" alt="FreeRTOS" />
+      <img src="https://img.shields.io/badge/Semtech%20SX1262%20LoRa-E25D34?style=flat-square" alt="SX1262 LoRa" />
       <br/>
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-      <img src="https://img.shields.io/badge/LiPo%20Power-F6AD55?style=flat-square" alt="LiPo Systems" />
-      <img src="https://img.shields.io/badge/3D%20Prototyping-00B4D8?style=flat-square" alt="3D Prototyping" />
+      <img src="https://img.shields.io/badge/CMSIS--DSP-0091BD?style=flat-square&logo=arm&logoColor=white" alt="CMSIS-DSP" />
+      <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+      <img src="https://img.shields.io/badge/Pixhawk%20%2F%20ArduPilot-ED8B00?style=flat-square" alt="Pixhawk ArduPilot" />
     </td>
     <td width="50%" valign="top">
-      <h4>Tools & Development</h4>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      <h4>Languages & Engineering Toolchain</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/MATLAB%20%2F%20Simulink-ED8B00?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
       <img src="https://img.shields.io/badge/Linux%20%2F%20POSIX-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
     </td>
   </tr>
 </table>
@@ -79,24 +78,29 @@ I build at the intersection of **silicon photonics, optical wireless systems (Li
 
 ### Featured Projects
 
-#### [qfoton](https://github.com/atharveeee-netizen/qfoton)
-> **Full-Stack Silicon Photonic Quantum Computing & Compiler Suite**
-- Compiles standard OpenQASM circuits into balanced Clements Mach-Zehnder meshes with 3D Quantum State Tomography (Re[ρ]).
-- Inverts inter-heater thermal diffusion ($K^{-1}$), eliminating 18% thermal bleeding to restore state fidelity to 100%.
-- Reproduces landmark Carolan et al. *Science* (2015) 6-mode silicon chip benchmarks within 0.05% fidelity.
-- `Silicon Photonics` • `OpenQASM` • `Clements SU(N)` • `MATLAB / Simulink` • `Python` • `GDSII CAD`
+#### [7-qubit-superconducting-processor](https://github.com/atharveeee-netizen/7-qubit-superconducting-processor)
+> **Design, Multi-Tier Microwave Modeling & Physical Layout of a 7-Qubit Transmon Processor**
+- Parametric planar transmon processor synthesized on a $10\text{ mm} \times 10\text{ mm}$ silicon substrate using **Qiskit Metal**.
+- Modeled lumped-element cQED equivalent circuits in **Ansys Circuit (Nexxim)**; verified sharp $|S_{21}|$ resonance notch at $7.042\text{ GHz}$ ($-20.8\text{ dB}$, $Q_L \approx 7,040$) with textbook $180^\circ$ transmission phase transition.
+- Frequency allocation and multi-tier microwave simulations targeting suppression of Hertzberg Type 1–7 spectral collisions and parasitic cross-talk.
+- Exported production-ready **GDSII** nanofabrication mask layers: CPW meandered feedlines, transmon pocket cutouts, Dolan bridge shadow evaporation windows, and wirebond launchpads.
+- `Qiskit Metal` • `Superconducting Transmons` • `Ansys HFSS / Circuit` • `pyEPR` • `cQED` • `GDSII`
+
+#### [beevil-knievel](https://github.com/atharveeee-netizen/beevil-knievel)
+> **Precision Apiculture Cyber-Physical Monitoring Platform (IEEE HardwAIre Finalist)**
+- Edge-native multi-sensor monitoring platform on a **WisBlock RAK4631** (Nordic nRF52840 + Semtech SX1262 LoRa) tracking acoustic, gas, and thermal dynamics in-hive.
+- On-node DSP engine running a 256-point Real FFT via **CMSIS-DSP** ($7.8\text{ Hz}$ resolution, $1.12\text{ ms}$ compute) coupled with Page's CUSUM filter for real-time drift detection ($8.2\text{ KB}$ Flash / $2.1\text{ KB}$ SRAM).
+- Single-hop sub-GHz LoRa star telemetry at $865\text{ MHz}$ using an optimized 33-byte packed binary struct ($71.94\text{ ms}$ time-on-air) received by a **Raspberry Pi** Linux gateway with SQLite WAL.
+- Rigorous engineering verification backed by **27 automated pytest suites** and multiphysics modeling across 11 FEA/CFD domains.
+- `WisBlock (nRF52840)` • `CMSIS-DSP` • `FreeRTOS` • `LoRa (SX1262)` • `Raspberry Pi` • `Python`
 
 #### [laser-lifi-network](https://github.com/atharveeee-netizen/laser-lifi-network)
 > **Laser-Based Indoor LiFi Network with DMD Beam Steering**
-- Modeled and simulated indoor high-bandwidth Free-Space Optical Communications (FSO / LiFi).
-- Coupled COMSOL Multiphysics for Digital Micromirror Device (DMD) optical beam steering with OptiSystem transmission metrics.
-- `Optical Wireless` • `Laser LiFi` • `COMSOL` • `OptiSystem` • `MATLAB` • `Beam Steering`
-
-#### [f450-face-detection-drone](https://github.com/atharveeee-netizen/f450-face-detection-drone)
-> **Autonomous Multirotor with Companion Edge Computer Vision**
-- Built F450 quadcopter platform integrated with Pixhawk flight controller, GPS lock, and LiPo power distribution.
-- Deployed onboard real-time OpenCV detection running on a companion Raspberry Pi interfaced over MAVLink.
-- `Pixhawk` • `ArduPilot` • `Raspberry Pi` • `OpenCV` • `Python` • `MAVLink`
+- High-bandwidth indoor wireless optical communication link built around a 1552 nm continuous-wave laser diode ($17\text{ dBm}$) over a 6 m line-of-sight free-space optical channel.
+- Modeled single and 4-mirror **Digital Micromirror Device (DMD)** arrays in **COMSOL Multiphysics** (transmittance vs. tilt angle sweep, $0.9416$ power transmittance at $12^\circ$ tilt) to dynamically steer the optical beam.
+- Built a live **MATLAB co-simulation bridge** reading incoming NRZ bit streams from **OptiSystem** and switching mirror states in real-time, accounting for mirror pitch ($10.8\text{ }\mu\text{m}$) and fill factor ($0.92$).
+- Swept five receiver filter topologies; synthesized a 3rd-order Chebyshev low-pass filter (0.5 dB ripple, 7.5 MHz cutoff), elevating Q-factor from 14.46 (reference) to 16.02 and achieving eye height of $0.0997$.
+- `Laser LiFi / FSO` • `OptiSystem` • `COMSOL 6.2` • `MATLAB Co-Simulation` • `DMD Beam Steering`
 
 ---
 
@@ -110,5 +114,5 @@ I build at the intersection of **silicon photonics, optical wireless systems (Li
 ---
 
 <div align="center">
-  <sub>Atharve Dahima • Embedded Systems, Photonics & Robotics</sub>
+  <sub>Atharve Dahima • Superconducting Quantum Hardware, Laser LiFi & Cyber-Physical Systems</sub>
 </div>
